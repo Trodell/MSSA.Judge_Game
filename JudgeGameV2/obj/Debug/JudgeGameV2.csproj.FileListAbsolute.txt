@@ -1,0 +1,11 @@
+C:\Users\Owner\source\MSSA\DSA\JudgeGameV2\bin\Debug\JudgeGameV2.exe.config
+C:\Users\Owner\source\MSSA\DSA\JudgeGameV2\bin\Debug\JudgeGameV2.exe
+C:\Users\Owner\source\MSSA\DSA\JudgeGameV2\bin\Debug\JudgeGameV2.pdb
+C:\Users\Owner\source\MSSA\DSA\JudgeGameV2\obj\Debug\JudgeGameV2.csproj.AssemblyReference.cache
+C:\Users\Owner\source\MSSA\DSA\JudgeGameV2\obj\Debug\JudgeGameV2.Form1.resources
+C:\Users\Owner\source\MSSA\DSA\JudgeGameV2\obj\Debug\JudgeGameV2.Properties.Resources.resources
+C:\Users\Owner\source\MSSA\DSA\JudgeGameV2\obj\Debug\JudgeGameV2.csproj.GenerateResource.cache
+C:\Users\Owner\source\MSSA\DSA\JudgeGameV2\obj\Debug\JudgeGameV2.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\MSSA\DSA\JudgeGameV2\obj\Debug\JudgeGameV2.exe
+C:\Users\Owner\source\MSSA\DSA\JudgeGameV2\obj\Debug\JudgeGameV2.pdb
+C:\Users\Owner\source\MSSA\DSA\JudgeGameV2\obj\Debug\JudgeGameV2.Form2.resources
